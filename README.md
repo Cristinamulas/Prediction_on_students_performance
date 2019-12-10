@@ -22,7 +22,7 @@ A few characteristics of my data set are:
 
 ### TARGET FEATURE
 
-<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.50.23%20AM.png" width = "500">
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2011.25.58%20AM.png" width = "500">
 
 ![](figs/Screen%20Shot%202019-12-10%20at%2010.50.23%20AM)
 
