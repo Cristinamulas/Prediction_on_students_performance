@@ -43,9 +43,12 @@ because I knew that they will increase the accuracy rate and the F1 score. The e
 
 ### RESULTS
 
-<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.51.13%20AM.png" width = "400">
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2011.17.36%20AM.png" width = "400">
 
-<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.51.53%20AM.png" width = "700">
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2011.17.57%20AM.png" width = "200">
+
+
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.51.53%20AM.png" width = "600">
 
 
 The classifier with higher Accuracy and F1 score was Gradient Boosting with a 88.02% accracity rate and a 89.16% of F1 score. 
