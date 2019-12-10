@@ -22,7 +22,15 @@ A few characteristics of my data set are:
 
 ### TARGET FEATURE
 
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.50.23%20AM.png" width = "500">
+
+![](figs/Screen%20Shot%202019-12-10%20at%2010.50.23%20AM)
+
 My target feature is final score feature. It contains numeric values, that needed to be econde as a categorical values for my analysis. The range of  this feature was from zero to twenty. I divided it form zero to teen as fail and from 10 to twenty as pass. I have around 24 % of students that didn't pass the course and 77% of students that pass the course and as a consequence I have class imbalance.
+
+### EXPLORATORY DATA ANALYSIS 
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.50.52%20AM.png" width = "500">
+
 
 ###  DATA MINING ALGORITHMS
 
@@ -34,5 +42,22 @@ because I knew that they will increase the accuracy rate and the F1 score. The e
  To evaluate my results, I  implement confusion matrix, accuracy, recall, precision and F1 score for each of my classifiers.
 
 ### RESULTS
+
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.51.13%20AM.png" width = "400">
+
+<img src = "figs/Screen%20Shot%202019-12-10%20at%2010.51.53%20AM.png" width = "700">
+
+
+The classifier with higher Accuracy and F1 score was Gradient Boosting with a 88.02% accracity rate and a 89.16% of F1 score. 
+
+<img src = "figs/download-1.png" width = "500">
+
+
+I also plot the feature importance of this model and found that failures was the most important feature. This makes a lot of sense when considering if a student fails or passes a course based on the number of previous class failures.
+
+
+### FUTURE APPLICATIONS 
+Having the ability to predict whether or not a student will fail a course using these tools may be beneficial to prevent student failure and to make an intervention. In addition, since my data set is from two schools in Portugal, I would like to find more data from other countries so I can make a global prediction. Also, I would like to make another
+model to predict classification with multiple labels( poor, fair and good). Finally, I would like to make a linear regression model since my target value is numeric and see if the results will change.
 
 
