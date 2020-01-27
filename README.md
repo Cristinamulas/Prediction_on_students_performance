@@ -26,7 +26,7 @@ A few characteristics of my data set are:
 
 ![](figs/Screen%20Shot%202019-12-10%20at%2010.50.23%20AM)
 
-My target feature is final score feature. It contains numeric values, that needed to be econde as a categorical values for my analysis. The range of  this feature was from zero to twenty. I divided it form zero to teen as fail and from 10 to twenty as pass. I have around 24 % of students that didn't pass the course and 77% of students that pass the course and as a consequence I have class imbalance. I used Oversample techniques and also Undersample techiques to even up the classes. The 
+My target feature is final score feature. It contains numeric values, that needed to be econde as a categorical values for my analysis. The range of  this feature was from zero to twenty. I divided it form zero to teen as fail and from 10 to twenty as pass. I have around 24 % of students that didn't pass the course and 77% of students that pass the course and as a consequence I have class imbalance. I used Oversample techniques and also Undersample techiques to even up the classes. The best result for my dataset was the one called SMOTE.
 
 ### EXPLORATORY DATA ANALYSIS 
 <img src = "figs/Screen%20Shot%202019-12-10%20at%2010.50.52%20AM.png" width = "500">
