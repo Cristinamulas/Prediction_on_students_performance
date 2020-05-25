@@ -51,7 +51,7 @@ because I knew that they will increase the accuracy rate and the F1 score. The e
 <img src = "figs/Screen%20Shot%202019-12-10%20at%2010.51.13%20AM.png" width = "500">
 
 
-The classifier with higher Accuracy and F1 score was Gradient Boosting with a 88.02% accracity rate and a 89.16% of F1 score. 
+The classifier with higher Accuracy and F1 score was Gradient Boosting with a 88.02% accuracity rate and a 89.16% of F1 score. 
 
 <img src = "figs/download-1.png" width = "500">
 
