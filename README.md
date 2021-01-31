@@ -56,6 +56,14 @@ The classifier with higher Accuracy and F1 score was Gradient Boosting with a 88
 <img src = "figs/download-1.png" width = "500">
 
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tXWscUSYdBs" target="_blank"><img src="http://img.youtube.com/vi/tXWscUSYdBs/0.jpg" 
+alt="Melissa Weber: Sphinx for Python Documentation" width="50%" /></a>
+
+
+
+
+
 I also plot the feature importance of this model and found that failures was the most important feature. This makes a lot of sense when considering if a student fails or passes a course based on the number of previous class failures.
 
 
